@@ -19,11 +19,57 @@
 
 </div>
 
-##
+## 🧠 Current Stack (Actively Using)
 
-- Learning and experimenting with [**Better Auth**](https://github.com/better-auth/better-auth) for self-managed authentication
-- Building a **SaaS project called [Humin](https://github.com/m3h3d1ha2an/humin)**
-- Exploring **[tRPC](https://trpc.io/)** and **[TanStack Start](https://tanstack.com/start/latest)** for modern web development
+### Language
+- TypeScript → Full-stack development (frontend + backend)
+
+### Backend
+- Express → REST APIs
+- Transitioning toward Hono for lightweight and modern backend services
+
+### Database
+- PostgreSQL → Primary production database
+- Prisma → Current ORM
+- Learning Drizzle ORM → Schema-first & type-safe source of truth
+
+### Runtime & Environment
+- Bun → Modern runtime (moving away from Node.js)
+- Arch Linux → Daily driver (deep familiarity with Linux systems, shell, and environment control)
+
+---
+
+## 🖥️ Systems & DevOps Foundation
+
+- Comfortable in Linux server environments (VPS, SSH workflows)
+- Docker → Basic containerization knowledge
+- Familiar with deployment fundamentals and environment configuration
+
+Using Arch Linux daily has given me strong control over system-level configuration, which directly helps with DevOps and server management.
+
+---
+
+## 📚 Previously Used / Explored
+
+- MongoDB with Mongoose → Built document-based applications (currently focused on relational systems)
+- GraphQL → Learned fundamentals, not yet used in a production project
+
+---
+
+## 🎯 Learning & Transition Goals
+
+### Languages
+- Go → Backend services (paired with TypeScript frontend)
+- Long-term: C# (web & desktop applications)
+- Rust (CLI tools, productivity utilities & systems programming)
+
+### Backend Architecture
+- Hono → Replace Express
+- oRPC → Type-safe RPC for single-repo architecture
+- Monorepo architecture with Turborepo
+
+### Databases
+- SQLite → Lightweight & embedded database systems
 
 ##
 
