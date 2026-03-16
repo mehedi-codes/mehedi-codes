@@ -25,8 +25,8 @@
 - TypeScript → Full-stack development (frontend + backend)
 
 ### Backend
-- Express → REST APIs
-- Transitioning toward Hono for lightweight and modern backend services
+- Hono
+- Express
 
 ### Database
 - PostgreSQL → Primary production database
@@ -64,7 +64,6 @@ Using Arch Linux daily has given me strong control over system-level configurati
 - Rust (CLI tools, productivity utilities & systems programming)
 
 ### Backend Architecture
-- Hono → Replace Express
 - oRPC → Type-safe RPC for single-repo architecture
 - Monorepo architecture with Turborepo
 
