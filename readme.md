@@ -9,7 +9,7 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   
 [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6d4aff?style=for-the-badge)](mailto:mehedi.swe@proton.me)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/mahdi-al-mutaallim)
@@ -17,7 +17,7 @@
 [![X](https://img.shields.io/badge/X%20(Twitter)-black?style=for-the-badge)](https://x.com/mehedi_codes)
 
 
-</div>
+</div> -->
 
 ## 🧠 Current Stack (Actively Using)
 
