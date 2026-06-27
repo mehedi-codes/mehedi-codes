@@ -11,10 +11,10 @@
 
 <div align="center">
   
-[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6d4aff?style=for-the-badge)](mailto:iammehedihasan@protonmail.com)
+[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6d4aff?style=for-the-badge)](mailto:mehedi.swe@proton.me)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/mahdi-al-mutaallim)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0039ff?style=for-the-badge&link=https%3A%2F%2Fx.com%2Fm3h3d1ha2an)](https://m3h3d1.vercel.app)
-[![X](https://img.shields.io/badge/X%20(Twitter)-black?style=for-the-badge)](https://x.com/m3h3d1ha2an)
+[![X](https://img.shields.io/badge/X%20(Twitter)-black?style=for-the-badge)](https://x.com/mehedi_codes)
 
 
 </div>
@@ -84,4 +84,4 @@ Using Arch Linux daily has given me strong control over system-level configurati
 
 ##
 
-<a href="https://git.io/streak-stats"><img src="https://github-streak-stats-m3h3d1.vercel.app/?user=m3h3d1ha2an&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=820&card_height=312" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-streak-stats-m3h3d1.vercel.app/?user=mehedi-codes&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=820&card_height=312" alt="GitHub Streak" /></a>
