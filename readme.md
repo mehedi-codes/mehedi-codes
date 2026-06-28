@@ -31,8 +31,6 @@
 | **Hosting** | Vercel, Netlify, Render, Cloudflare Workers, Linux VPS, Windows VPS | Vercel primary for frontend — Render for backend, VPS for production deployments (Nginx, IIS, PM2) |
 | **DB Hosting** | Neon, Supabase, MongoDB Atlas | Neon primary for PostgreSQL — Supabase when BaaS features needed, Atlas for MongoDB |
 
----
-
 ## 🎯 Goals & What I'm Learning Next
 
 | Category | Technology | Notes |
@@ -49,10 +47,13 @@
 | **Database** | Turso / libSQL | Distributed SQLite-compatible database for edge deployments |
 
 ##
+
+<a href="https://git.io/streak-stats"><img src="https://github-streak-stats-m3h3d1.vercel.app/?user=mehedi-codes&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=820&card_height=312" alt="GitHub Streak" /></a>
+
+##
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
   <img alt="GitHub Contribution Grid Snake" src="github-snake.svg">
 </picture>
-##
-<a href="https://git.io/streak-stats"><img src="https://github-streak-stats-m3h3d1.vercel.app/?user=mehedi-codes&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=820&card_height=312" alt="GitHub Streak" /></a>
