@@ -4,7 +4,7 @@
 </p>
 <div align="center">
 
-**Mehedi Hasan** is a skilled **Full Stack Web Application Developer**, with experience in developing and building user-friendly web applications using modern technologies. He enjoys **writing clean code, solving challenging problems,** and **working with others** to build projects that are both practical and enjoyable to use. He also likes exploring **new frameworks and tools** to improve his skills and create better software.
+I'm a Full Stack Web Developer based in Dhaka, Bangladesh — building production-grade web applications with TypeScript, React, Next.js, and Hono. I've shipped real projects for government organizations, international bodies, and private clients — from solo development to acting as assistant project manager. I care deeply about clean code, strong fundamentals, and picking the right tool for the job.
 
 </div>
 
