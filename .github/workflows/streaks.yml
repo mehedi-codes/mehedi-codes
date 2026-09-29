@@ -20,7 +20,7 @@ jobs:
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
           options: user=${{ github.repository_owner }}&theme=github-dark-blue&hide_border=true&short_numbers=true&card_width=820&card_height=312
-          outputs: github-streak.svg
+          path: github-streak.svg
 
       - name: commit-streak-stats
         uses: stefanzweifel/git-auto-commit-action@v7
