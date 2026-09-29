@@ -1,0 +1,41 @@
+name: generate-github-streak-stats
+
+on:
+  schedule:
+    - cron: "0 18 * * *" # Midnight (12:00 AM) Dhaka (UTC +6) Timezone
+  workflow_dispatch:
+
+jobs:
+  generate-streak:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: checkout-current-branch
+        uses: actions/checkout@v7
+
+      - name: generate-streak-stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          user: mehedi-codes
+          stroke: 805AD5
+          fire: FF6B6B
+          ring: FFA502
+          currStreakNum: 36975C
+          currStreakLabel: FFA502
+          sideNums: 36975C
+          sideLabels: FFA502
+          dates: 36975C
+          theme: github-dark-blue
+          hide_border: true
+          short_numbers: true
+          card_width: 820
+          card_height: 312
+
+      - name: commit-streak-stats
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "ci: update github streak stats"
+          file_pattern: "github-streak.svg"
