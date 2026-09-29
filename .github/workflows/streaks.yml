@@ -16,11 +16,11 @@ jobs:
       - name: checkout-current-branch
         uses: actions/checkout@v7
 
-      - name: generate-streak-stats
+      - name: generate-streak-svg
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
           options: user=${{ github.repository_owner }}&theme=github-dark-blue&hide_border=true&short_numbers=true&card_width=820&card_height=312
-          path: github-streak.svg
+          outputs: github-streak.svg
 
       - name: commit-streak-stats
         uses: stefanzweifel/git-auto-commit-action@v7
