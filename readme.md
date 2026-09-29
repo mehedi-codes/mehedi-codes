@@ -49,7 +49,7 @@ I'm a Full Stack Web Developer based in Dhaka, Bangladesh — building productio
 
 ##
 
-<a href="https://git.io/streak-stats"><img src="https://github-streak-stats-m3h3d1.vercel.app/?user=mehedi-codes&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=820&card_height=312" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=mehedi-codes&theme=github-dark-blue&hide_border=true&short_numbers=true&card_width=820&card_height=312)](https://git.io/streak-stats)
 
 ##
 
