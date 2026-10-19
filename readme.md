@@ -4,7 +4,7 @@
 </p>
 <div align="center">
 
-I'm a Full Stack Web Developer based in Dhaka, Bangladesh — building production-grade web applications with TypeScript, React, Next.js, and Hono. I've shipped real projects for government organizations, international bodies, and private clients — from solo development to acting as assistant project manager. I care deeply about clean code, strong fundamentals, and picking the right tool for the job.
+Full Stack Software Engineer with nearly 3 years of experience building production grade applications for government agencies, international organizations, and enterprise clients. TypeScript, React, Next.js, Hono, and PostgreSQL, with hands-on expertise spanning UI design, RESTful APIs, database architecture, and multi-environment server deployments (GCP, Linux/Windows VPS, and IIS). Known for taking complete product ownership from client requirement gathering to live production delivery.
 
 </div>
 
